@@ -6,9 +6,7 @@ The goal is not a one-shot slide generator. It is a structured authoring workspa
 
 ## Demo
 
-Watch the current teaser:
-
-[Agentic Video Studio demo](media/agentic-video-studio-demo.mp4)
+Demo video link coming soon.
 
 ## Intent
 
